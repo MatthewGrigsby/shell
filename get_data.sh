@@ -1,2 +1,2 @@
 #!/bin/bash
-date >> ../../../project_data/data_asset/shell_log.txt
+date >> ./shellscripts/shell_log.txt
